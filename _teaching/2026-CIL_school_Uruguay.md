@@ -1,11 +1,13 @@
 ---
 title: "Computational imaging & learning: from physics to data-driven methods"
 collection: teaching
+layout: single
 type: "PhD & Master Course"
-permalink: /teaching/2026-CIL_school_Uruguay
+permalink: /teaching/2026-CIL_school_Uruguay/
 venue: "Universidad de la República (UdelaR), Facultad de Ingeniería"
 date: 2026-07-27
 location: "Montevideo, Uruguay"
+published: true
 ---
 
 Intensive one-week course targeting PhD candidates and Master's students in Mathematics, Engineering, and Computer Science.
