@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Giuseppe Carrino / Website"
+title                    : "Christian Daniele / Website"
 title_separator          : "-"
-name                     : &name "Giuseppe Carrino"
-description              : &description "PhD candidate at ENS Lyon. Working on Optimization methods in finite precision."
-url                      : https://josephcarrino.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Christian Daniele"
+description              : &description "PhD candidate at University of Genoa and Université Côte d'Azur. Working on Optimization methods and Inverse Problems."
+url                      : https://christiandaniele.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JosephCarrino/josephcarrino.github.io"
+repository               : "ChristianDaniele/christiandaniele.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,21 +23,21 @@ repository               : "JosephCarrino/josephcarrino.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Giuseppe Carrino"
+  name             : "Christian Daniele"
   pronouns         : "he/him"  
-  bio              : "PhD candidate at ENS Lyon. Working on Optimization methods in mixed precision."
+  bio              : "PhD candidate at University of Genoa and Université Côte d'Azur. Working on Optimization methods and Inverse Problems."
   location         : "Lyon, France"
   employer         : "École normale supérieure de Lyon"
   uri              : # URL
-  email            : "giuseppe.carrino@ens-lyon.fr" 
+  email            : "christian.daniele@edu.unige.it"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vMxd5WoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=b1kwBQMAAAAJ&hl=it"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-5616-2971"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-5008-1747"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JosephCarrino"
+  github           : "christiandaniele"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -81,7 +81,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
   thesis:

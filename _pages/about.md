@@ -1,26 +1,26 @@
 ---
 permalink: /
-title: "Giuseppe Carrino website"
+title: "Christian Daniele website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Giuseppe Carrino, but everybody calls me Joseph. In this website you will find different resources about me and my work.
-I am a first-year PhD student at **ENS Lyon** since November 2025, supervised by [Nicolas Brisebarre](https://perso.ens-lyon.fr/nicolas.brisebarre/), [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/) and [Theo Mary](https://tmary.perso.lip6.fr/).
+I am Christian Daniele, Chris for everyone. In this website you will find different resources about me and my work.
+I am a second-year PhD student at **University of Genoa** and **Université Côte d'Azur** since March 2025, supervised by [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home), [Samuel Vaiter](https://samuelvaiter.com) and [Silvia Villa](https://dima.unige.it/silvia.villa%40unige.it).
 
 About my research
 ======
-During my PhD, I focus on **second-order optimization** methods, especially _Newton's_ algorithm, and floating-point representation, aiming to reduce computational complexity of high-performing optimizers for Machine Learning tasks. Previously, I worked on a framework for the collection, translation and comparative analysis of **online newspaper articles**.
+My research focuses primarily on first-order optimization methods and inverse problems. In particular, I am working on hybrid frameworks for solving inverse problems, integrating neural networks with classical optimization algorithms to enhance reconstructive accuracy and computational efficiency.
 
 About me
 ======
-Before coming to France, I studied at **University of Bologna**, completing a Bachelor's Degree in **Computer Science** and a Master's Degree in **Artificial Intelligence**. I have also been an intern as **Software Development Engineer** at _Amazon_ Madrid and worked for two months at _NTNU_ in Gjøvik, Norway.
+Before starting the PhD, I studied at **University of Genoa**, completing a Bachelor's Degree in **Mathematics** and a Master's Degree in **Applied Mathematics**. I have also been an intern at CNRS, Sophia Antipolis, France under the supervision of [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) and [Samuel Vaiter](https://samuelvaiter.com).
 
 What else?
 ======
-Nothing much! But I love watching movies - especially if old and italian - and playing the guitar, already setting-up a rock band in Lyon if you want to join :grin:.
+I love sports! In particular, beach volleyball, volleyball, tennis, and football. If you happen to meet me at a conference, don't hesitate to invite me to play—whatever the sport, count me in!
 
 
 <h1>Posts</h1>
