@@ -1,7 +1,7 @@
 ---
 title: 'Recap: Computational Imaging & Learning School in Montevideo'
 date: 2026-07-27
-permalink: /posts/2026/08/uruguay-summer-school-recap/
+permalink: /posts/2026/07/uruguay-summer-school-recap
 tags:
   - teaching
   - computational imaging
