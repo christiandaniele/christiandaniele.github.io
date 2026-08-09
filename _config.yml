@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
+remote_theme: "academicpages/academicpages.github.io"
 title                    : "Christian Daniele / Website"
 title_separator          : "-"
 name                     : &name "Christian Daniele"
@@ -369,3 +370,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-remote-theme

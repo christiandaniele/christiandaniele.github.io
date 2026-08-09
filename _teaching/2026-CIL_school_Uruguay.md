@@ -4,7 +4,7 @@ collection: teaching
 type: "PhD & Master Course"
 permalink: /teaching/2026-CIL_school_Uruguay
 venue: "Universidad de la República (UdelaR), Facultad de Ingeniería"
-date: 2026-07-01
+date: 2026-07-27
 location: "Montevideo, Uruguay"
 ---
 
